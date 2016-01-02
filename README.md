@@ -1,5 +1,5 @@
 
-> 孵化中的idea见[issues](https://github.com/phodal/ideas/issues)
+> 孵化中的idea见[issues](https://github.com/pepeguo/ideas/issues)
 
 *   [Done(:thumbsup:)](#donethumbsup)
     *   [](#echoesworks)[EchoesWorks](https://github.com/phodal/echoesworks)
